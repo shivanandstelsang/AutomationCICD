@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="11.596">
+    <testcase classname="Data-driven testing with Scenario Outline and Examples" name="User is able to open facebook  right" time="5.822">
+        <system-out><![CDATA[Given User is able to open facebook.........................................passed
+When User is able to send the password......................................passed
+When click on login.........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Data-driven testing with Scenario Outline and Examples" name="User is able to open facebook  right 2" time="5.579">
+        <system-out><![CDATA[Given User is able to open facebook.........................................passed
+When User is able to send the password......................................passed
+When click on login.........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,104 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-02-14T06:37:45.721Z",
+        "line": 9,
+        "name": "User is able to open facebook  right",
+        "description": "",
+        "id": "data-driven-testing-with-scenario-outline-and-examples;user-is-able-to-open-facebook--right;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5709046200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to open facebook",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.user_is_able_to_open_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able to send the password",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.user_is_able_to_send_the_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "click on login",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.click_on_login()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2024-02-14T06:37:51.559Z",
+        "line": 10,
+        "name": "User is able to open facebook  right",
+        "description": "",
+        "id": "data-driven-testing-with-scenario-outline-and-examples;user-is-able-to-open-facebook--right;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5576685600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is able to open facebook",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.user_is_able_to_open_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is able to send the password",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.user_is_able_to_send_the_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "click on login",
+            "match": {
+              "location": "stepdefnitions.Login_defnition.click_on_login()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Data-driven testing with Scenario Outline and Examples",
+    "description": "",
+    "id": "data-driven-testing-with-scenario-outline-and-examples",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Featurefiles/Login.feature",
+    "tags": []
+  }
+]
